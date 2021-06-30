@@ -1,5 +1,5 @@
 # Deployment
-https://dashboard.heroku.com/apps/nestz-backend
+https://nestz-frontend-etfc2q1iu.vercel.app/
 
 # Getting Started with Create React App
 
